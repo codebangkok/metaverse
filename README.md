@@ -8,6 +8,7 @@
 * Solidity https://docs.soliditylang.org
 * OpenZeppelin https://www.openzeppelin.com
 * OpenZeppelin GitHub https://github.com/OpenZeppelin/openzeppelin-contracts
+* Remix https://remix.ethereum.org
 
 ### Extension
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
