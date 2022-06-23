@@ -12,7 +12,8 @@
 
 ### Extension
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-* [WebXR API Emulator](https://chrome.google.com/webstore/detail/webxr-api-emulator/mjddjgeghkdijejnciaefnkjmkafnnje/related)
+* [WebXR API Emulator](https://chrome.google.com/webstore/detail/webxr-api-emulator/mjddjgeghkdijejnciaefnkjmkafnnje)
+* [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
 ### Follow me
 * **Page:** [https://fb.com/CodeBangkok​](https://fb.com/CodeBangkok​)
