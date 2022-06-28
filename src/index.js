@@ -97,8 +97,10 @@ function onWindowResize() {
     renderer.setSize(window.innerWidth, window.innerHeight);
 }
 
-const web3 = new Web3(Web3.givenProvider || "wss://rinkeby.infura.io/ws/v3/1fabcf12b3e24d3d9fb2c2cf8dd9ebcd");
-const contract = new web3.eth.Contract(abi, "0xE3C9428250373f842Ad6ce29947552103D160f0d");
+// const web3 = new Web3(Web3.givenProvider || "wss://rinkeby.infura.io/ws/v3/1fabcf12b3e24d3d9fb2c2cf8dd9ebcd");
+// const contract = new web3.eth.Contract(abi, "0x0d3416976aE7C5aa394c7B753667bC699830159b");
+const web3 = new Web3(Web3.givenProvider || "https://data-seed-prebsc-1-s1.binance.org:8545");
+const contract = new web3.eth.Contract(abi, "0x0d3416976aE7C5aa394c7B753667bC699830159b");
 
 const nfts = [];
 let items;
