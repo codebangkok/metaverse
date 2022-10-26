@@ -1,6 +1,6 @@
 ## Metaverse Development with Web3.js | Three.js | VR | AR | NFT
 
-Augmented Reality Demo https://yellow-sky-05b7cf800.2.azurestaticapps.net
+Metaverse Demo https://yellow-sky-05b7cf800.2.azurestaticapps.net
 
 ### Document
 * [Three.js](https://threejs.org)
